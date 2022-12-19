@@ -1,5 +1,7 @@
 # Dice-rolling-game-
-
+You can visit this website using link below.
+ https://farushaaa.github.io/Dice-rolling-game-/
+ 
 -- This game has to played by 2 players (you and your friend) -- 
 
 In each turn a player decides to roll a dice. The number which player will get after dice is rolled will be added to player's score. 
